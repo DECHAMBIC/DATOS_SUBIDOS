@@ -1,0 +1,20 @@
+{
+  "users": {
+    "diego123": {
+      "is_logged_in": false,
+      "name": "Diego Emanuel"
+    }
+  },
+  "orders": {
+    "987XYZ": {
+      "user_id": "diego123",
+      "status": "salió de fábrica",
+      "estimated_arrival": "15 de julio de 2025"
+    },
+    "123ABC": {
+      "user_id": "diego123",
+      "status": "en cola",
+      "estimated_arrival": "20 de julio de 2025"
+    }
+  }
+}
