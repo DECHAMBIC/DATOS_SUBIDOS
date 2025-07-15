@@ -1,20 +1,37 @@
 {
   "users": {
     "diego123": {
-      "is_logged_in": false,
-      "name": "Diego Emanuel"
+      "name": "Diego Emanuel Chambi Centeno"
+    },
+    "testuser": {
+      "name": "Usuario de Prueba"
     }
   },
   "orders": {
-    "987XYZ": {
+    "XYZ001": {
       "user_id": "diego123",
-      "status": "salió de fábrica",
-      "estimated_arrival": "15 de julio de 2025"
+      "product": "Laptop Gamer Pro",
+      "status": "aun en fabrica"
     },
-    "123ABC": {
+    "XYZ002": {
       "user_id": "diego123",
-      "status": "en cola",
-      "estimated_arrival": "20 de julio de 2025"
+      "product": "Silla Ergonómica de Oficina",
+      "status": "a medio camino del destino"
+    },
+    "ABC003": {
+      "user_id": "testuser",
+      "product": "Monitor 4K 27 pulgadas",
+      "status": "listo para recoger"
+    },
+    "XYZ004": {
+      "user_id": "diego123",
+      "product": "Teclado Mecánico Inalámbrico",
+      "status": "cancelado"
     }
+  },
+  "faq": {
+    "pagos": "Aceptamos tarjetas de crédito, débito y transferencias bancarias.",
+    "productos": "Sí, actualmente todos nuestros productos están disponibles en stock. Puedes consultar nuestro catálogo en la web.",
+    "envios": "Realizamos envíos a todo el país. El tiempo de entrega es de 3 a 5 días hábiles."
   }
 }
