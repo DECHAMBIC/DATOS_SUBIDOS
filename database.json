@@ -15,8 +15,8 @@
     },
     "XYZ002": {
       "user_id": "diego123",
-      "product": "Silla Ergonómica de Oficina",
-      "status": "a medio camino del destino"
+      "product": "Silla Ergon\u00f3mica de Oficina",
+      "status": "cancelado"
     },
     "ABC003": {
       "user_id": "testuser",
@@ -25,13 +25,13 @@
     },
     "XYZ004": {
       "user_id": "diego123",
-      "product": "Teclado Mecánico Inalámbrico",
+      "product": "Teclado Mec\u00e1nico Inal\u00e1mbrico",
       "status": "cancelado"
     }
   },
   "faq": {
-    "pagos": "Aceptamos tarjetas de crédito, débito y transferencias bancarias.",
-    "productos": "Sí, actualmente todos nuestros productos están disponibles en stock. Puedes consultar nuestro catálogo en la web.",
-    "envios": "Realizamos envíos a todo el país. El tiempo de entrega es de 3 a 5 días hábiles."
+    "pagos": "Aceptamos tarjetas de cr\u00e9dito, d\u00e9bito y transferencias bancarias.",
+    "productos": "S\u00ed, actualmente todos nuestros productos est\u00e1n disponibles en stock. Puedes consultar nuestro cat\u00e1logo en la web.",
+    "envios": "Realizamos env\u00edos a todo el pa\u00eds. El tiempo de entrega es de 3 a 5 d\u00edas h\u00e1biles."
   }
 }
